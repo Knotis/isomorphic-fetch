@@ -1,6 +1,6 @@
 {
   "name": "portable-fetch",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "description": "Isomorphic WHATWG Fetch API, for Node, Browserify, Webpack & React-Native",
   "browser": "fetch-npm-browserify.js",
   "react-native": "fetch-npm-react-native.js",
